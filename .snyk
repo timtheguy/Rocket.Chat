@@ -1,0 +1,34 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.13.5
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-450202:
+    - xml-encryption > async > lodash:
+        patched: '2019-07-04T08:59:00.096Z'
+    - twilio > lodash:
+        patched: '2019-07-04T08:59:00.096Z'
+    - mailparser > html-to-text > lodash:
+        patched: '2019-07-04T08:59:00.096Z'
+    - '@accounts/server > @accounts/common > lodash':
+        patched: '2019-07-04T08:59:00.096Z'
+    - '@google-cloud/vision > google-gax > lodash':
+        patched: '2019-07-04T08:59:00.096Z'
+    - '@google-cloud/storage > async > lodash':
+        patched: '2019-07-04T08:59:00.096Z'
+    - archiver > async > lodash:
+        patched: '2019-07-04T08:59:00.096Z'
+    - '@accounts/mongo > lodash':
+        patched: '2019-07-04T08:59:00.096Z'
+    - googleapis > async > lodash:
+        patched: '2019-07-04T08:59:00.096Z'
+    - '@google-cloud/language > google-gax > @grpc/grpc-js > lodash':
+        patched: '2019-07-04T08:59:00.096Z'
+    - juice > web-resource-inliner > async > lodash:
+        patched: '2019-07-04T08:59:00.096Z'
+    - '@google-cloud/vision > google-gax > grpc > lodash':
+        patched: '2019-07-04T08:59:00.096Z'
+    - '@accounts/graphql-api > @accounts/server > @accounts/common > lodash':
+        patched: '2019-07-04T08:59:00.096Z'
+    - turndown > jsdom > request-promise-native > request-promise-core > lodash:
+        patched: '2019-07-04T08:59:00.096Z'
