@@ -154,7 +154,7 @@
 		"connect": "^3.6.6",
 		"core-js": "^2.5.7",
 		"cors": "^2.8.4",
-		"csv-parse": "^4.0.1",
+		"csv-parse": "^4.4.6",
 		"emailreplyparser": "^0.0.5",
 		"express": "^4.16.4",
 		"express-session": "^1.15.4",
