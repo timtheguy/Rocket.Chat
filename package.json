@@ -195,7 +195,7 @@
 		"meteor-node-stubs": "^0.4.1",
 		"mime-db": "^1.40.0",
 		"mime-type": "^3.0.7",
-		"mkdirp": "^0.5.1",
+		"mkdirp": "^1.0.0",
 		"moment": "^2.22.2",
 		"moment-timezone": "^0.5.23",
 		"node-dogstatsd": "^0.0.7",
