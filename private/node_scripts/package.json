@@ -4,6 +4,12 @@
     "fs": "0.0.2",
     "google-translate": "^1.0.6",
     "recursive-readdir": "^2.0.0",
-    "underscore": "^1.8.3"
-  }
+    "underscore": "^1.8.3",
+    "snyk": "^1.316.1"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
