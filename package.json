@@ -162,7 +162,7 @@
 		"file-type": "^10.6.0",
 		"filesize": "^3.6.1",
 		"googleapis": "^25.0.0",
-		"grant-express": "^3.8.0",
+		"grant-express": "^4.0.0",
 		"grapheme-splitter": "^1.0.4",
 		"graphql": "^0.13.2",
 		"graphql-subscriptions": "^0.5.8",
