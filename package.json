@@ -121,9 +121,9 @@
 		"webpack": "^4.29.3"
 	},
 	"dependencies": {
-		"@accounts/graphql-api": "^0.2.3",
+		"@accounts/graphql-api": "^0.6.0",
 		"@accounts/mongo": "0.0.12",
-		"@accounts/server": "0.0.18",
+		"@accounts/server": "0.6.0",
 		"@babel/runtime": "^7.2.0",
 		"@google-cloud/language": "^2.0.0",
 		"@google-cloud/storage": "^2.3.1",
