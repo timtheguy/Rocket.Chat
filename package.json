@@ -188,7 +188,7 @@
 		"lodash.property": "^4.4.2",
 		"lokijs": "^1.5.5",
 		"lru-cache": "^5.1.1",
-		"mailparser": "^2.4.3",
+		"mailparser": "^3.0.1",
 		"marked": "^0.5.2",
 		"mem": "4.1.0",
 		"merge-graphql-schemas": "^1.5.2",
