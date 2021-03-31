@@ -219,7 +219,7 @@
 		"twilio": "^3.25.0",
 		"twit": "^2.2.11",
 		"ua-parser-js": "^0.7.19",
-		"underscore": "^1.9.1",
+		"underscore": "^1.12.1",
 		"underscore.string": "^3.3.5",
 		"uuid": "^3.3.2",
 		"webdav": "^2.0.0",
